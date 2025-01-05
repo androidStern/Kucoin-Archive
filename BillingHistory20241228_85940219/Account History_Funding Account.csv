@@ -1,0 +1,17 @@
+﻿UID,Account Type,Currency,Side,Amount,Fee,Time(UTC-04:00),Remark,Type
+****0219,mainAccount,USDT,Deposit,25000,0,2023-12-30 20:39:22,,Transfer
+****0219,mainAccount,USDT,Withdrawal,25000,25,2023-12-30 20:41:36,,Withdraw
+****0219,mainAccount,USDT,Deposit,11793.001151,0,2023-12-31 21:06:17,,Transfer
+****0219,mainAccount,USDT,Withdrawal,11793.001151,25,2023-12-31 21:11:35,,Withdraw
+****0219,mainAccount,LUNA,Deposit,2.33591442,0,2024-01-18 05:42:26,LUNA AIRDROP BATCH 15,Rewards
+****0219,mainAccount,LUNA,Deposit,2.33591442,0,2024-02-06 23:19:37,LUNA AIRDROP 16,Rewards
+****0219,mainAccount,LUNA,Deposit,2.33591442,0,2024-03-18 04:36:24,LUNA AIRDROP BATCH 17,Rewards
+****0219,mainAccount,LUNA,Deposit,2.33591442,0,2024-04-16 04:53:24,LUNA AIRDROP BATCH-18,Rewards
+****0219,mainAccount,LUNA,Deposit,2.33591442,0,2024-05-13 05:06:36,LUNA AIRDROP -19,Rewards
+****0219,mainAccount,LUNA,Deposit,2.33591442,0,2024-06-13 21:58:43,LUNA AIRDROP 20,Rewards
+****0219,mainAccount,LUNA,Deposit,2.33591442,0,2024-07-10 05:14:54,LUNA AIRDROP-21,Rewards
+****0219,mainAccount,LUNA,Deposit,2.33591442,0,2024-08-25 21:07:02,LUNA AIRDROP-22,Rewards
+****0219,mainAccount,LUNA,Deposit,2.33591442,0,2024-09-17 23:46:27,LUNA AIRDROP-23,Rewards
+****0219,mainAccount,LUNA,Deposit,2.33591442,0,2024-10-14 10:35:43,"LUNA Airdrop 24 ",Rewards
+****0219,mainAccount,LUNA,Deposit,2.33591442,0,2024-11-21 04:07:54,LUNA Airdrop 25,Rewards
+****0219,mainAccount,LUNA,Deposit,2.33591442,0,2024-12-20 06:30:53,LUNA Airdrop 26,Rewards

@@ -1,0 +1,3 @@
+﻿UID,Account Type,Time(UTC-04:00),Coin,Amount,Fee,Withdrawal Address/Account,Transfer Network,Status,Remarks
+****0219,mainAccount,2023-12-30 20:39:21,USDT,24975,25,0x26C57fEA171591d68a0432AaE87b5cf27A61C5d0,ETH,SUCCESS,
+****0219,mainAccount,2023-12-31 21:06:17,USDT,11768.001151,25,0x26C57fEA171591d68a0432AaE87b5cf27A61C5d0,ETH,SUCCESS,

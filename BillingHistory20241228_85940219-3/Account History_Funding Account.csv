@@ -1,0 +1,4 @@
+﻿UID,Account Type,Currency,Side,Amount,Fee,Time(UTC-04:00),Remark,Type
+****0219,mainAccount,TOKO,Deposit,33.89,0,2022-02-24 02:41:32,TOKO Rewards,Rewards
+****0219,mainAccount,LUNA,Deposit,24.02654834862,0,2022-05-28 06:32:39,luna-8,Rewards
+****0219,mainAccount,TOKO,Deposit,259.65,0,2022-11-24 02:56:23,TOKO Rewards,Rewards

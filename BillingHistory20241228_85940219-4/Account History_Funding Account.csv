@@ -1,0 +1,15 @@
+﻿UID,Account Type,Currency,Side,Amount,Fee,Time(UTC-04:00),Remark,Type
+****0219,mainAccount,USDT,Deposit,50000,0,2021-11-22 09:16:43,Deposit,Deposit
+****0219,mainAccount,USDT,Withdrawal,50000,0,2021-11-22 09:18:16,Trading Account,Transfer
+****0219,mainAccount,USDT,Deposit,20315.9,0,2021-11-22 09:34:31,Deposit,Deposit
+****0219,mainAccount,USDT,Withdrawal,20315.9,0,2021-11-22 12:23:08,Trading Account,Transfer
+****0219,mainAccount,USDT,Deposit,27100.2,0,2021-11-22 13:43:07,Deposit,Deposit
+****0219,mainAccount,USDT,Withdrawal,27100.2,0,2021-11-22 13:58:05,Trading Account,Transfer
+****0219,mainAccount,USDT,Deposit,4900,0,2021-11-22 22:05:39,Deposit,Deposit
+****0219,mainAccount,USDT,Withdrawal,4900,0,2021-11-23 08:06:26,Trading Account,Transfer
+****0219,mainAccount,USDT,Deposit,25059.5,0,2021-11-26 16:15:42,Deposit,Deposit
+****0219,mainAccount,USDT,Withdrawal,25059.5,0,2021-11-26 16:26:08,Trading Account,Transfer
+****0219,mainAccount,USDT,Deposit,25000,0,2021-12-02 09:36:50,Deposit,Deposit
+****0219,mainAccount,USDT,Withdrawal,25000,0,2021-12-02 09:48:55,Trading Account,Transfer
+****0219,mainAccount,USDT,Deposit,8000,0,2021-12-03 16:53:21,Deposit,Deposit
+****0219,mainAccount,USDT,Withdrawal,8000,0,2021-12-03 16:59:52,Trading Account,Transfer

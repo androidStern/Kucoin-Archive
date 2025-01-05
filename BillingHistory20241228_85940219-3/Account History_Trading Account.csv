@@ -1,0 +1,13 @@
+﻿UID,Account Type,Currency,Side,Amount,Fee,Time(UTC-04:00),Remark,Type
+****0219,mainAccount,LYXE,Withdrawal,57.5613,0,2022-02-15 11:52:16,,Spot
+****0219,mainAccount,USDT,Deposit,976.337003153529,0.977314317471,2022-02-15 11:52:16,,Spot
+****0219,mainAccount,PYR,Deposit,50,0,2022-05-05 20:52:42,,Spot
+****0219,mainAccount,USDT,Withdrawal,430.86,0.86,2022-05-05 20:52:42,,Spot
+****0219,mainAccount,USDT,Withdrawal,58.28501736,0.11633736,2022-05-05 20:52:42,,Spot
+****0219,mainAccount,PYR,Deposit,6.7638,0,2022-05-05 20:52:42,,Spot
+****0219,mainAccount,USDT,Withdrawal,244.0839936,0.4871936,2022-05-06 09:47:17,,Spot
+****0219,mainAccount,PYR,Deposit,30.4496,0,2022-05-06 09:47:17,,Spot
+****0219,mainAccount,PYR,Deposit,27.8033,0,2022-05-08 13:20:35,,Spot
+****0219,mainAccount,PYR,Deposit,3.5029,0,2022-05-08 13:20:35,,Spot
+****0219,mainAccount,USDT,Withdrawal,27.20176995,0.05429495,2022-05-08 13:20:35,,Spot
+****0219,mainAccount,USDT,Withdrawal,215.90652615,0.43095115,2022-05-08 13:20:35,,Spot

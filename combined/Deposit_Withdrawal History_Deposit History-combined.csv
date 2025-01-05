@@ -1,0 +1,8 @@
+UID,Account Type,Time(UTC-04:00),Coin,Amount,Fee,Transfer Network,Status,Remarks
+****0219,mainAccount,2021-11-22 09:15:03,USDT,50000.0,0,ETH,SUCCESS,Deposit
+****0219,mainAccount,2021-11-22 09:32:54,USDT,20315.9,0,ETH,SUCCESS,Deposit
+****0219,mainAccount,2021-11-22 13:40:54,USDT,27100.2,0,ETH,SUCCESS,Deposit
+****0219,mainAccount,2021-11-22 22:03:55,USDT,4900.0,0,ETH,SUCCESS,Deposit
+****0219,mainAccount,2021-11-26 16:13:56,USDT,25059.5,0,ETH,SUCCESS,Deposit
+****0219,mainAccount,2021-12-02 09:35:43,USDT,25000.0,0,ETH,SUCCESS,Deposit
+****0219,mainAccount,2021-12-03 16:53:21,USDT,8000.0,0,ETH,SUCCESS,Deposit
